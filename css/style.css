@@ -3,7 +3,7 @@
     color: #25282e;
 }
 a,i{
-    transition: .5s;
+    transition: .7s;
     text-decoration: none;
 }
 
@@ -60,11 +60,11 @@ a,i{
 
 #navbar a{
     width: 80px;
-    color: #444;
+    color: rgb(0, 0, 0);
 }
 
-#navbar:hover{
-    color: #c1b696;
+#navbar a:hover{
+    color: #A26332;
 }
 
 /* MAIN IMAGE */
@@ -97,7 +97,7 @@ a,i{
     background-image: url(../imagens/tibia-img.png);
 }
 #img5{
-    background-image: url(../imagens/g_5.jpg);
+    background-image: url(../imagens/galeria.jpg);
 }
 
 #gallery-container h1{
