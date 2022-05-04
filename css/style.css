@@ -99,6 +99,9 @@ a,i{
 #img5{
     background-image: url(../imagens/galeria.jpg);
 }
+#img6{
+    background-image: url(../imagens/loguin-img.png);
+}
 
 #gallery-container h1{
     text-align: center;
